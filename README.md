@@ -55,7 +55,3 @@ The platform analyzes security logs, detects suspicious activities, extracts ind
 * reports
 * docs
 * Screenshots
-
-## Current Status
-
-Project initialization completed.
