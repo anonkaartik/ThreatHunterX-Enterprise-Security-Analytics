@@ -1,101 +1,101 @@
 timestamp,user,source_ip,event,severity
-2026-06-13 16:03:38,alice,45.33.32.156,Command and Control Connection,Critical
-2026-06-13 16:04:38,alice,172.16.5.100,Credential Dumping,Critical
-2026-06-13 16:05:38,admin,192.168.1.25,Successful Login,Low
-2026-06-13 16:06:38,service.account,185.220.101.45,Credential Dumping,Critical
-2026-06-13 16:07:38,michael,192.168.1.25,PowerShell Execution,High
-2026-06-13 16:08:38,admin,185.220.101.45,PowerShell Execution,High
-2026-06-13 16:09:38,alice,45.33.32.156,Command and Control Connection,Critical
-2026-06-13 16:10:38,michael,45.33.32.156,Privilege Escalation,Critical
-2026-06-13 16:11:38,michael,10.0.0.15,Failed Login,Medium
-2026-06-13 16:12:38,service.account,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 16:13:38,alice,192.168.1.25,Successful Login,Low
-2026-06-13 16:14:38,service.account,192.168.1.25,Command and Control Connection,Critical
-2026-06-13 16:15:38,john.smith,45.33.32.156,Privilege Escalation,Critical
-2026-06-13 16:16:38,michael,172.16.5.100,PowerShell Execution,High
-2026-06-13 16:17:38,admin,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 16:18:38,john.smith,10.0.0.15,Failed Login,Medium
-2026-06-13 16:19:38,admin,45.33.32.156,Failed Login,Medium
-2026-06-13 16:20:38,admin,185.220.101.45,Privilege Escalation,Critical
-2026-06-13 16:21:38,alice,172.16.5.100,PowerShell Execution,High
-2026-06-13 16:22:38,john.smith,192.168.1.25,PowerShell Execution,High
-2026-06-13 16:23:38,service.account,172.16.5.100,Successful Login,Low
-2026-06-13 16:24:38,service.account,45.33.32.156,PowerShell Execution,High
-2026-06-13 16:25:38,service.account,172.16.5.100,Credential Dumping,Critical
-2026-06-13 16:26:38,john.smith,192.168.1.25,Command and Control Connection,Critical
-2026-06-13 16:27:38,admin,172.16.5.100,Successful Login,Low
-2026-06-13 16:28:38,john.smith,45.33.32.156,Failed Login,Medium
-2026-06-13 16:29:38,admin,45.33.32.156,Command and Control Connection,Critical
-2026-06-13 16:30:38,alice,192.168.1.25,Command and Control Connection,Critical
-2026-06-13 16:31:38,michael,45.33.32.156,Successful Login,Low
-2026-06-13 16:32:38,alice,192.168.1.25,PowerShell Execution,High
-2026-06-13 16:33:38,michael,10.0.0.15,Credential Dumping,Critical
-2026-06-13 16:34:38,alice,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 16:35:38,service.account,185.220.101.45,Successful Login,Low
-2026-06-13 16:36:38,admin,185.220.101.45,Successful Login,Low
-2026-06-13 16:37:38,alice,45.33.32.156,Credential Dumping,Critical
-2026-06-13 16:38:38,alice,45.33.32.156,Failed Login,Medium
-2026-06-13 16:39:38,admin,10.0.0.15,Failed Login,Medium
-2026-06-13 16:40:38,michael,45.33.32.156,PowerShell Execution,High
-2026-06-13 16:41:38,michael,10.0.0.15,PowerShell Execution,High
-2026-06-13 16:42:38,michael,172.16.5.100,Command and Control Connection,Critical
-2026-06-13 16:43:38,alice,185.220.101.45,Command and Control Connection,Critical
-2026-06-13 16:44:38,john.smith,45.33.32.156,Privilege Escalation,Critical
-2026-06-13 16:45:38,alice,45.33.32.156,PowerShell Execution,High
-2026-06-13 16:46:38,admin,10.0.0.15,Privilege Escalation,Critical
-2026-06-13 16:47:38,michael,10.0.0.15,Failed Login,Medium
-2026-06-13 16:48:38,michael,192.168.1.25,Failed Login,Medium
-2026-06-13 16:49:38,john.smith,45.33.32.156,PowerShell Execution,High
-2026-06-13 16:50:38,michael,172.16.5.100,Command and Control Connection,Critical
-2026-06-13 16:51:38,alice,185.220.101.45,PowerShell Execution,High
-2026-06-13 16:52:38,john.smith,185.220.101.45,PowerShell Execution,High
-2026-06-13 16:53:38,john.smith,45.33.32.156,Command and Control Connection,Critical
-2026-06-13 16:54:38,admin,192.168.1.25,Credential Dumping,Critical
-2026-06-13 16:55:38,john.smith,45.33.32.156,Command and Control Connection,Critical
-2026-06-13 16:56:38,alice,10.0.0.15,Credential Dumping,Critical
-2026-06-13 16:57:38,service.account,192.168.1.25,Credential Dumping,Critical
-2026-06-13 16:58:38,alice,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 16:59:38,michael,192.168.1.25,Credential Dumping,Critical
-2026-06-13 17:00:38,michael,172.16.5.100,Command and Control Connection,Critical
-2026-06-13 17:01:38,michael,172.16.5.100,Failed Login,Medium
-2026-06-13 17:02:38,admin,185.220.101.45,Successful Login,Low
-2026-06-13 17:03:38,service.account,192.168.1.25,Command and Control Connection,Critical
-2026-06-13 17:04:38,john.smith,192.168.1.25,Successful Login,Low
-2026-06-13 17:05:38,service.account,10.0.0.15,Successful Login,Low
-2026-06-13 17:06:38,michael,172.16.5.100,Privilege Escalation,Critical
-2026-06-13 17:07:38,admin,10.0.0.15,Credential Dumping,Critical
-2026-06-13 17:08:38,service.account,192.168.1.25,Privilege Escalation,Critical
-2026-06-13 17:09:38,admin,45.33.32.156,PowerShell Execution,High
-2026-06-13 17:10:38,alice,172.16.5.100,Credential Dumping,Critical
-2026-06-13 17:11:38,admin,10.0.0.15,Failed Login,Medium
-2026-06-13 17:12:38,john.smith,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 17:13:38,admin,172.16.5.100,Credential Dumping,Critical
-2026-06-13 17:14:38,service.account,192.168.1.25,Credential Dumping,Critical
-2026-06-13 17:15:38,alice,185.220.101.45,Failed Login,Medium
-2026-06-13 17:16:38,admin,185.220.101.45,Credential Dumping,Critical
-2026-06-13 17:17:38,john.smith,185.220.101.45,Privilege Escalation,Critical
-2026-06-13 17:18:38,service.account,172.16.5.100,Credential Dumping,Critical
-2026-06-13 17:19:38,alice,10.0.0.15,Command and Control Connection,Critical
-2026-06-13 17:20:38,service.account,172.16.5.100,Privilege Escalation,Critical
-2026-06-13 17:21:38,alice,45.33.32.156,Failed Login,Medium
-2026-06-13 17:22:38,admin,192.168.1.25,Failed Login,Medium
-2026-06-13 17:23:38,service.account,10.0.0.15,PowerShell Execution,High
-2026-06-13 17:24:38,alice,10.0.0.15,Privilege Escalation,Critical
-2026-06-13 17:25:38,alice,10.0.0.15,Successful Login,Low
-2026-06-13 17:26:38,admin,172.16.5.100,Command and Control Connection,Critical
-2026-06-13 17:27:38,alice,172.16.5.100,Command and Control Connection,Critical
-2026-06-13 17:28:38,john.smith,10.0.0.15,Failed Login,Medium
-2026-06-13 17:29:38,john.smith,192.168.1.25,Successful Login,Low
-2026-06-13 17:30:38,service.account,172.16.5.100,Failed Login,Medium
-2026-06-13 17:31:38,alice,45.33.32.156,PowerShell Execution,High
-2026-06-13 17:32:38,admin,185.220.101.45,PowerShell Execution,High
-2026-06-13 17:33:38,michael,172.16.5.100,PowerShell Execution,High
-2026-06-13 17:34:38,john.smith,172.16.5.100,Successful Login,Low
-2026-06-13 17:35:38,john.smith,185.220.101.45,Successful Login,Low
-2026-06-13 17:36:38,admin,172.16.5.100,Failed Login,Medium
-2026-06-13 17:37:38,service.account,192.168.1.25,Privilege Escalation,Critical
-2026-06-13 17:38:38,john.smith,192.168.1.25,Failed Login,Medium
-2026-06-13 17:39:38,alice,185.220.101.45,Successful Login,Low
-2026-06-13 17:40:38,alice,10.0.0.15,Successful Login,Low
-2026-06-13 17:41:38,john.smith,10.0.0.15,Privilege Escalation,Critical
-2026-06-13 17:42:38,michael,192.168.1.25,Credential Dumping,Critical
+2026-06-13 16:52:40,service.account,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 16:53:40,michael,45.33.32.156,Failed Login,Medium
+2026-06-13 16:54:40,john.smith,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 16:55:40,admin,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 16:56:40,john.smith,10.0.0.15,Successful Login,Low
+2026-06-13 16:57:40,admin,45.33.32.156,Successful Login,Low
+2026-06-13 16:58:40,service.account,185.220.101.45,Privilege Escalation,Critical
+2026-06-13 16:59:40,alice,185.220.101.45,Successful Login,Low
+2026-06-13 17:00:40,admin,172.16.5.100,Successful Login,Low
+2026-06-13 17:01:40,john.smith,172.16.5.100,PowerShell Execution,High
+2026-06-13 17:02:40,alice,185.220.101.45,Command and Control Connection,Critical
+2026-06-13 17:03:40,alice,45.33.32.156,PowerShell Execution,High
+2026-06-13 17:04:40,service.account,45.33.32.156,Privilege Escalation,Critical
+2026-06-13 17:05:40,alice,172.16.5.100,Credential Dumping,Critical
+2026-06-13 17:06:40,john.smith,45.33.32.156,PowerShell Execution,High
+2026-06-13 17:07:40,alice,172.16.5.100,PowerShell Execution,High
+2026-06-13 17:08:40,john.smith,10.0.0.15,Privilege Escalation,Critical
+2026-06-13 17:09:40,admin,45.33.32.156,Failed Login,Medium
+2026-06-13 17:10:40,alice,172.16.5.100,Successful Login,Low
+2026-06-13 17:11:40,alice,185.220.101.45,Credential Dumping,Critical
+2026-06-13 17:12:40,john.smith,192.168.1.25,Credential Dumping,Critical
+2026-06-13 17:13:40,michael,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:14:40,service.account,10.0.0.15,Privilege Escalation,Critical
+2026-06-13 17:15:40,michael,10.0.0.15,Command and Control Connection,Critical
+2026-06-13 17:16:40,admin,192.168.1.25,Failed Login,Medium
+2026-06-13 17:17:40,john.smith,185.220.101.45,Successful Login,Low
+2026-06-13 17:18:40,admin,45.33.32.156,Command and Control Connection,Critical
+2026-06-13 17:19:40,michael,192.168.1.25,PowerShell Execution,High
+2026-06-13 17:20:40,alice,192.168.1.25,Credential Dumping,Critical
+2026-06-13 17:21:40,john.smith,10.0.0.15,Privilege Escalation,Critical
+2026-06-13 17:22:40,service.account,45.33.32.156,Credential Dumping,Critical
+2026-06-13 17:23:40,john.smith,185.220.101.45,Failed Login,Medium
+2026-06-13 17:24:40,alice,185.220.101.45,Credential Dumping,Critical
+2026-06-13 17:25:40,alice,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 17:26:40,michael,10.0.0.15,Successful Login,Low
+2026-06-13 17:27:40,admin,172.16.5.100,Privilege Escalation,Critical
+2026-06-13 17:28:40,service.account,185.220.101.45,Credential Dumping,Critical
+2026-06-13 17:29:40,service.account,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:30:40,michael,10.0.0.15,Privilege Escalation,Critical
+2026-06-13 17:31:40,service.account,172.16.5.100,PowerShell Execution,High
+2026-06-13 17:32:40,admin,172.16.5.100,Successful Login,Low
+2026-06-13 17:33:40,michael,192.168.1.25,Successful Login,Low
+2026-06-13 17:34:40,john.smith,192.168.1.25,Successful Login,Low
+2026-06-13 17:35:40,admin,172.16.5.100,Successful Login,Low
+2026-06-13 17:36:40,admin,185.220.101.45,Privilege Escalation,Critical
+2026-06-13 17:37:40,michael,172.16.5.100,Command and Control Connection,Critical
+2026-06-13 17:38:40,michael,45.33.32.156,PowerShell Execution,High
+2026-06-13 17:39:40,admin,45.33.32.156,PowerShell Execution,High
+2026-06-13 17:40:40,michael,185.220.101.45,Privilege Escalation,Critical
+2026-06-13 17:41:40,alice,10.0.0.15,PowerShell Execution,High
+2026-06-13 17:42:40,michael,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:43:40,michael,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:44:40,admin,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:45:40,service.account,10.0.0.15,Failed Login,Medium
+2026-06-13 17:46:40,admin,172.16.5.100,Failed Login,Medium
+2026-06-13 17:47:40,admin,185.220.101.45,PowerShell Execution,High
+2026-06-13 17:48:40,alice,192.168.1.25,Credential Dumping,Critical
+2026-06-13 17:49:40,michael,172.16.5.100,Command and Control Connection,Critical
+2026-06-13 17:50:40,michael,10.0.0.15,Failed Login,Medium
+2026-06-13 17:51:40,service.account,45.33.32.156,PowerShell Execution,High
+2026-06-13 17:52:40,alice,192.168.1.25,Successful Login,Low
+2026-06-13 17:53:40,alice,10.0.0.15,PowerShell Execution,High
+2026-06-13 17:54:40,john.smith,192.168.1.25,Command and Control Connection,Critical
+2026-06-13 17:55:40,john.smith,10.0.0.15,PowerShell Execution,High
+2026-06-13 17:56:40,michael,10.0.0.15,Credential Dumping,Critical
+2026-06-13 17:57:40,john.smith,192.168.1.25,Failed Login,Medium
+2026-06-13 17:58:40,alice,172.16.5.100,Privilege Escalation,Critical
+2026-06-13 17:59:40,john.smith,10.0.0.15,Command and Control Connection,Critical
+2026-06-13 18:00:40,john.smith,192.168.1.25,Command and Control Connection,Critical
+2026-06-13 18:01:40,michael,192.168.1.25,Failed Login,Medium
+2026-06-13 18:02:40,michael,185.220.101.45,Failed Login,Medium
+2026-06-13 18:03:40,john.smith,10.0.0.15,Successful Login,Low
+2026-06-13 18:04:40,michael,172.16.5.100,Command and Control Connection,Critical
+2026-06-13 18:05:40,admin,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 18:06:40,alice,45.33.32.156,Privilege Escalation,Critical
+2026-06-13 18:07:40,admin,185.220.101.45,PowerShell Execution,High
+2026-06-13 18:08:40,michael,192.168.1.25,Command and Control Connection,Critical
+2026-06-13 18:09:40,michael,172.16.5.100,Command and Control Connection,Critical
+2026-06-13 18:10:40,alice,10.0.0.15,Failed Login,Medium
+2026-06-13 18:11:40,john.smith,192.168.1.25,Privilege Escalation,Critical
+2026-06-13 18:12:40,service.account,192.168.1.25,Failed Login,Medium
+2026-06-13 18:13:40,admin,185.220.101.45,PowerShell Execution,High
+2026-06-13 18:14:40,admin,45.33.32.156,Failed Login,Medium
+2026-06-13 18:15:40,john.smith,185.220.101.45,Successful Login,Low
+2026-06-13 18:16:40,alice,10.0.0.15,Credential Dumping,Critical
+2026-06-13 18:17:40,alice,172.16.5.100,Successful Login,Low
+2026-06-13 18:18:40,john.smith,45.33.32.156,Credential Dumping,Critical
+2026-06-13 18:19:40,admin,185.220.101.45,Credential Dumping,Critical
+2026-06-13 18:20:40,admin,10.0.0.15,Failed Login,Medium
+2026-06-13 18:21:40,admin,45.33.32.156,Credential Dumping,Critical
+2026-06-13 18:22:40,admin,192.168.1.25,PowerShell Execution,High
+2026-06-13 18:23:40,service.account,10.0.0.15,Failed Login,Medium
+2026-06-13 18:24:40,admin,192.168.1.25,Failed Login,Medium
+2026-06-13 18:25:40,john.smith,45.33.32.156,Failed Login,Medium
+2026-06-13 18:26:40,john.smith,185.220.101.45,Privilege Escalation,Critical
+2026-06-13 18:27:40,john.smith,185.220.101.45,PowerShell Execution,High
+2026-06-13 18:28:40,service.account,172.16.5.100,Credential Dumping,Critical
+2026-06-13 18:29:40,john.smith,185.220.101.45,Privilege Escalation,Critical
+2026-06-13 18:30:40,john.smith,45.33.32.156,Command and Control Connection,Critical
+2026-06-13 18:31:40,alice,45.33.32.156,PowerShell Execution,High
